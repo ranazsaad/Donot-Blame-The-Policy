@@ -89,7 +89,7 @@ Learning Rate (0.01–1.0), Discount Factor (0.5–0.999), Exploration Rate (0.0
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/ranasaad/Donot-Blame-The-Policy.git
+git clone https://github.com/ranazsaad/Donot-Blame-The-Policy.git
 cd Donot-Blame-The-Policy
 ```
 
