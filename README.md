@@ -60,7 +60,7 @@
 Learning Rate (0.01–1.0), Discount Factor (0.5–0.999), Exploration Rate (0.01–0.5), Episodes (100–5000)  
 
 **Environment Parameters:**
-- **GridWorld:** Grid Size, Wall Density, Random Walls On/Off  
+- **GridWorld:** Grid Size, Random Walls 
 - **FrozenLake:** Lake Size, Slippery Surface On/Off, Hole Probability 0.1–0.3  
 - **CliffWalking:** Environment Size  
 
